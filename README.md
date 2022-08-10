@@ -1,4 +1,4 @@
-# Python/Django Challenge
+# Django Challenge
 
 ## Description
 This project is designed to test your knowledge of back-end web technologies, specifically in Python/Django, Rest APIs, and decoupled services (microservices).
