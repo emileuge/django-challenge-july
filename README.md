@@ -1,8 +1,3 @@
-# Django Challenge
-
-## Description
-This project is designed to test your knowledge of back-end web technologies, specifically in Python/Django, Rest APIs, and decoupled services (microservices).
-
 ## Assignment
 The goal of this exercise is to create a simple API using Django and the Django Rest Framework to allow users to query [stock quotes](https://www.investopedia.com/terms/s/stockquote.asp).
 
