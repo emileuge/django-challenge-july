@@ -1,4 +1,4 @@
-## Assignment
+## Assignment Solved
 The goal of this exercise is to create a simple API using Django and the Django Rest Framework to allow users to query [stock quotes](https://www.investopedia.com/terms/s/stockquote.asp).
 
 The project consists of two separate services:
